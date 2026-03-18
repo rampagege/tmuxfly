@@ -4,6 +4,10 @@
 
 Run multiple Claude Code instances on your dev server, remotely control them all from any device. claude-remote uses tmux to keep sessions alive and provides a **Web UI** and **Telegram Bot** for real-time monitoring, interaction, and AI-powered auto-response.
 
+<p align="center">
+  <img src="./assets/demo.gif" alt="claude-remote demo" width="720" />
+</p>
+
 ## Why
 
 You run 3 Claude Code tasks in parallel on your server, then walk away. You want to check progress, approve prompts, or give new instructions — from your phone on the couch, your tablet in bed, or via Telegram on the go.
